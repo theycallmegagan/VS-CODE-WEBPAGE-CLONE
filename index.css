@@ -12,7 +12,7 @@ body{
     overflow-x: hidden;
     justify-self: center;
     overflow-y: auto;
-    border: 3px solid red;
+ 
 }
 
 .nav-bar{
@@ -1070,7 +1070,7 @@ display: flex;
 .footer-li{
 
     display: inline-block;
-    font-size: 12px;
+    font-size: 20px;
     padding: 12px;
 }
 
@@ -1121,7 +1121,10 @@ display: flex;
    font-size: 16px;
 }
 
+.rightside-div li a{
 
+    font-size: 20px;
+}
 
 
 
@@ -2446,34 +2449,34 @@ footer .rightside-div{
 
       .content2-text p{
 
-        margin-left: -112px;
-        width: 705px;
+        margin-left: 67px;
+        width: 905px;
 
       }
 
       .content2-img{
 
 
-        margin-left: -471px;
+        margin-left: 150px;
       }
       .content2-text h2{
-        margin-left: -102px;
+        margin-left: 68px;
       }
 
      /* -------------------------------------------------------------------------------- */
       .content3-img{
-        margin-left: 240px;
+        margin-left: 111px;
     }
 
 
      .content3-text h2{
 
-        margin-left: 226px;
+        margin-left: 5px;
      }
 
      .content3-text p{
-        width: 683px;
-    margin-left: 208px;
+        width: 1045px;
+    margin-left: 5px;
      }
 
      /* -------------------------------------------------------------------------------- */
@@ -2481,15 +2484,16 @@ footer .rightside-div{
     
      
      .content4-img{
-        margin-left: -471px;
+        margin-left: 150px;
      }
      .content4-text p{
-        margin-left: -37px;
-        width: 725px;
+        margin-left: 67px;
+        width: 905px;
+
 
      }
  .content4-text h2{
-    margin-left: -118px;
+    margin-left: 68px;
 
  }
 
@@ -2501,12 +2505,12 @@ footer .rightside-div{
 
 
  .content5-text{
-    margin-left: -643px;
+    margin-left: 143px;
 
  }
 
  .content5-text p{
-    width: 674px;
+    width: 954px;
 
  }
 
@@ -2562,8 +2566,8 @@ footer .rightside-div{
 
     .lastcontent-div p{
         width: 574px;
-        margin-top: 27px;
-        margin-left: -98px; 
+        margin-top: 18px;
+        margin-left: 137px;
 
 
     }
