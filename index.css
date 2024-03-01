@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    
+  
    
     
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -122,7 +122,7 @@ body{
     box-sizing: border-box;
     outline: none;
     width: 170px;
-    height: 53px;
+    height: 69px;
     caret-color: auto;
     
     /* border: none; */
@@ -157,7 +157,7 @@ body{
     color: white;
     font-size: 1.1rem;
     width: 150px;
-    height: 57px ;
+    height: 69px ;
     cursor: pointer;
     margin-left: -5px;
     font-weight: 600;
@@ -743,6 +743,7 @@ background-size: cover;
     margin-top: 68px;
     height: 250px;
     width: fit-content;
+   
     
 
 
@@ -754,7 +755,7 @@ background-size: cover;
     display: inline-block;
     height: 250px;
     width: fit-content;
-    margin-left: 50px;
+    margin-left: 0px;
     margin-top: 50px;
 }
 .content2-div h2{
@@ -819,6 +820,7 @@ background-size: cover;
 
     line-height: 37px;
     font-size: 20px;
+  
 }
 
 
@@ -842,7 +844,7 @@ background-size: cover;
     margin-top: 88px;
     height: 200px;
     width: fit-content;
-    margin-left: 29px;
+    margin-left: 0px;
     
 
 
@@ -854,7 +856,7 @@ background-size: cover;
     display: inline-block;
     height: 250px;
     width: fit-content;
-    margin-left: 130px;
+    margin-left: 0px;
     margin-top: 50px;
 }
 .content4-div h2{
@@ -909,7 +911,7 @@ background-size: cover;
     margin-top: 88px;
     height: 250px;
     width: fit-content;
-    margin-left: 50px;
+    margin-left: 0px;
     
 }
 
@@ -920,7 +922,7 @@ background-size: cover;
     display: inline-block;
     height: 250px;
     width: fit-content;
-    margin-left: 102px;
+    margin-left: 02px;
     margin-top: 50px;
 }
 .content5-div h2{
@@ -931,10 +933,11 @@ background-size: cover;
     margin-top: 50px;
 }
 
-.content5-div p{
+.content5-text p{
     
     line-height: 37px;
     font-size: 20px;
+    width: 1200px;
 }
 
 .content5-div p a{
@@ -1042,9 +1045,9 @@ footer{
     float: left;
     position: relative;
     padding-left: 12px;
-    top:10px;
+    top:0px;
     margin-top: -12px;
-    margin-left: -12px;
+    margin-left: 52px;
     display: flex;
     padding-top: -10px;
    
@@ -1054,6 +1057,8 @@ footer{
 
 .rightside-div ul li a{
     color: white;
+    font-size: 17;
+
 }
 
 
@@ -1100,12 +1105,10 @@ display: flex;
 }
 
 .rightside-div{
-
-    margin-top: -46px;
-    
+    margin-top: -101px;
     height: fit-content;
     width: fit-content;
-    margin-left: 776px;
+    margin-left: 1019px;
     
     
 }
@@ -1532,7 +1535,7 @@ display: flex;
         margin-left: 50px;
     }
     .search-bar{
-        height: 59px;
+        height: 106px;
     margin-top: 22px;
         
     }
@@ -2457,7 +2460,7 @@ footer .rightside-div{
       .content2-img{
 
 
-        margin-left: 150px;
+        margin-left: 42px;
       }
       .content2-text h2{
         margin-left: 68px;
@@ -2475,7 +2478,7 @@ footer .rightside-div{
      }
 
      .content3-text p{
-        width: 1045px;
+        width: 899px;
     margin-left: 5px;
      }
 
@@ -2505,23 +2508,23 @@ footer .rightside-div{
 
 
  .content5-text{
-    margin-left: 143px;
+    margin-left: 44px;
 
  }
 
  .content5-text p{
-    width: 954px;
+    width: 913px;
 
  }
 
  .content5-text h2{
-    margin-left: 74px;
+    margin-left: 4px;
 
  }
  
  .content5-img{
 
-    margin-left: 232px;
+    margin-left: 94px;
  }
 
  .ms-div{
@@ -2530,7 +2533,7 @@ footer .rightside-div{
 
  .rightside-div{
     padding: 18px;
-    padding-top: 0px;
+    padding-top: 50px;
 }
 
 
@@ -2828,7 +2831,7 @@ footer .rightside-div{
                 
                     height: 200px;
                     width: 190px;
-                    margin-left: -291px;
+                    margin-left: -280px;
                     margin-top: 10px;
                    }
                 
@@ -2842,7 +2845,8 @@ footer .rightside-div{
                 
                     font-size: 14px;
                     line-height: 23px;
-                    width: 413px;
+                    width: 393px;
+                    margin-left: -32px;
                 }
                    .content4-text{
                     margin-top: 204px;
@@ -2912,8 +2916,9 @@ footer .rightside-div{
                 .lastcontent-div p{
         
                     font-size: 12px;
-                    margin-top: 27px;
-            margin-left: 1px;
+                    margin-top: 10px;
+                    margin-left: 6px;
+                    width: 397px;
                 }
                 .lastcontent-div a{
                     font-size: 12px;
