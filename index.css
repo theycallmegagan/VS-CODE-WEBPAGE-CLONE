@@ -1,8 +1,8 @@
 *{
     margin: 0;
     padding: 0;
-  
    
+   border: 00000.2px solid red;
     
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
@@ -11,6 +11,7 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     overflow-x: hidden;
     justify-self: center;
+    border:2px solid red;
    
     overflow: auto;
  
@@ -977,8 +978,8 @@ background-size: cover;
     
     font-weight: 500;
     margin-top: 20px;
-    font-size: 15px
-        margin-left: -229px;
+    font-size: 15px;
+    margin-left: -229px;
 }
 
 .lastcontent-div p,a{
@@ -1589,13 +1590,13 @@ font-size: 12px;
 
 
     .content1-img{
-        height: 22vh;
+        height: 13vh;
         width: 19vw;
 
     }
 
     .content2-img{
-        height: 22vh;
+        height: 13vh;
         width: 19vw;
         
     }
@@ -1605,7 +1606,7 @@ font-size: 12px;
     }
 
     .content3-img{
-        height: 22vh;
+        height: 13vh;
         width: 19vw;
 
     }
@@ -1615,7 +1616,7 @@ font-size: 12px;
     }
 
     .content4-img{
-        height: 22vh;
+        height: 13vh;
         margin-left: 50px;
         width: 19vw;
 
@@ -1623,7 +1624,7 @@ font-size: 12px;
 
     .content5-img{
 
-        height: 22vh;
+        height: 13vh;
         width: 19vw;
 
     }
@@ -3633,6 +3634,9 @@ margin-left: -128px;
 
   }
 
+
+
+
 @media screen and (max-width:420px) {
 
 
@@ -3721,6 +3725,8 @@ margin-left: -128px;
 
     
 }
+
+
 
 
 
@@ -3855,20 +3861,60 @@ margin-left: 81px;
 
 
 
-  @media screen and (max-width:320px) {
+  @media screen and (max-width:320px) { 
   
-      .nav-bar p{
-          
-          margin-left: -26px;
+      .nav-2 p{
+        margin-left: -7px;
+        width: 314px;
       }
       .text{
   
-        margin-left: -4px;
+        margin-left: -1px;
       }
   
       .text #x{
   
           font-size: 13px;
+      }
+
+.button1-elements #bulb{
+
+    width: 143px;
+}
+
+.button2-elements #bulb{
+
+    width: 143px;
+    left: -30px;
+    position: relative;
+}
+
+
+
+.button1-elements p a{
+
+
+    top: 10px;
+    left: 13px;
+
+}
+
+.button2-elements p a{
+
+    top: 10px;
+    left: 13px;
+}
+
+
+      .button1-elements{
+
+        width: 205px;
+
+        
+      }
+      .button2-elements{
+            width: 175px;
+
       }
   
       .agreement-div{
@@ -3890,6 +3936,10 @@ margin-left: 81px;
   
       }
   
+      .content1-img{
+
+        margin-left: 56px;
+      }
       
       .content1-text{
   
@@ -3898,29 +3948,136 @@ margin-left: 81px;
       .content1-text p{
   
           width: 300px;
-      margin-left: 61px;
+      margin-left: 102px;
       }
   
       .content1-text h2{
   
-          margin-left: -85px;
+          margin-left: 100px;
       }
   
+
+      
+
+      .content2-text h2 {
+        margin-left: -136px;
+        width: 296px;
+        padding-left: 32px;
+      }
   
   
   
       .content2-text p{
   
-          margin-left: -60px;
+          margin-left: -54px;
           width: 295px;
       }
   
       .content2-img {
   
-          margin-left: -231px;
+        margin-left: -287px;
   
   
       }
+
+      .content3-img{
+
+        margin-left: 123px;
+      }
+
+      .content3-text p{
+
+        margin-left: 158px;
+        width: fit-content;
+
+
+      }
+
+      .content3-text h2{
+
+        margin-left: -15px;
+    padding-left: 0px;
+      }
+
+
+      .content4-img{
+
+        margin-left: -258px;
+
+
+      }
+
+      .content4-text p{
+        width: fit-content;
+        margin-left: 4px;
+
+      }
+
+      .content4-text h2{
+
+        margin-left: -111px;
+
+      }
+
+
+
+
+      .content5-img{
+        margin-left: 120px;
+
+      }
+      .content5-text h2{
+        margin-left: -25px;
+        top: 20px;
+
+      }
+
+
+      .content5-text p{
+
+        margin-left: 54px;
+        width: fit-content;
+      }
+
+
+      .lastcontent-div{
+
+        width: fit-content;
+      }
+
+
+      .lastcontent-div h5{
+
+        margin-left: 61px;
+        width: fit-content;
+
+      }
+      .lastcontent-div p{
+        width: 299px;
+        position: relative;
+
+      }
+
+
+
+      .leftside-text .size{
+
+
+        font-size: 14px;
+
+      }
+
+
+
+
+
+
+
+
+
+
+
+      
       .rightside-div{
           display: none;
       }
