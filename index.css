@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    /* border: 0.001px solid red; */
+    border: 0.001px solid red;
    
     
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -123,7 +123,7 @@ body{
     box-sizing: border-box;
     outline: none;
     width: 170px;
-    height: 69px;
+    height: 67px;
     caret-color: auto;
     
     /* border: none; */
@@ -1580,7 +1580,7 @@ font-size: 12px;
         margin-left: 50px;
     }
     .search-bar{
-        height: 106px;
+        height: 80px;
     margin-top: 22px;
         
     }
@@ -2431,9 +2431,10 @@ footer .rightside-div{
     .nav-2 p{
         width: fit-content;
         margin-top: 1px;
-        margin-left: 87px;
+        margin-left: 119px;  
     }
     
+
       .text{
   
          margin-left: 210px; 
@@ -2462,15 +2463,78 @@ footer .rightside-div{
     margin-left: 211px;
 }
 
+.content1-text{
+
+    margin-left: -839px;
+}
       .content1-text h2{
 
         margin-left:258px;
       }
 
       .content1-text p{
-        width: 593px;
+        width: 693px;
         margin-left: 241px;
     }
+
+
+    .content2-text h2{
+
+        margin-left: -329px;
+    }
+
+    .content2-text p{
+
+        width: 728px;
+        margin-left: -89px;
+    }
+
+
+
+    .content3-text h2{
+        margin-left: -449px;
+
+    }
+
+    .content3-text p{
+
+        width: 700px;
+    padding-left: 9px;
+    }
+
+    .content4-text h2{
+
+
+        margin-left: -122px;
+
+    }
+
+    .content4-text p{
+
+        width: 725px;
+    margin-left: -30px;
+    }
+
+
+    .content5-text h2{
+
+        margin-left: -410px;
+    }
+
+
+
+    .lastcontent-div p{
+
+        width: fit-content;
+        margin-left: -9px;
+    }
+
+    .lastcontent-div{
+        height: fit-content;
+    }
+
+
+
 
       }
 
@@ -2487,6 +2551,99 @@ footer .rightside-div{
         width: 90vw;
     }
     
+}
+
+@media screen  and (max-width:670px){
+
+    .content2-text p{
+        position: relative;
+        width: fit-content;
+    }
+
+    .content2-text h2{
+
+        width: fit-content;
+        margin-left: -73px;
+    }
+
+    .content2-img{
+
+        margin-left: -485px;
+    }
+    
+    .content1-text p{
+
+        position: relative;
+        width: fit-content;
+    }
+
+    .content3-text p{
+        position: relative;
+        width: fit-content;
+
+    }
+    .content3-img{
+
+
+        margin-left: 184px;
+    }
+
+    .content3-text{
+        margin-left: -550px;
+    width: fit-content;
+    }
+
+    .content3-text h2{
+        width: fit-content;
+        position: relative;
+        margin-left: -22px;
+    }
+
+
+    .content4-img{
+    }
+
+    .content4-text p{
+
+            position: relative;
+            width: fit-content;
+    }
+    .content4-text h2{
+        width: fit-content  ;
+    }
+
+    .content4-img{
+        margin-left: -478px;
+    }
+    .content5-img{
+        margin-left: 193px;
+
+    }
+
+
+
+    .content5-text p{
+        width: fit-content;
+        position: relative;
+        margin-left: auto;
+    }
+
+
+    .content5-text h2{
+
+        width: fit-content;
+        position: relative;
+        margin: 18px;
+        
+    }
+
+    
+
+    .nav-2 p{
+        width:550px;
+        margin-left: 17px;
+        
+    }
 }
 
 
@@ -2512,7 +2669,7 @@ footer .rightside-div{
     }
 
     .content3-text p{
-        margin-left: 88px;
+        margin-left: auto;
 
 
     }
@@ -2638,8 +2795,107 @@ footer .rightside-div{
                 
         } */
     }
+
     
-        
+
+
+
+@media screen and (max-width:525px) {
+      #vs-img{
+
+        margin-left: -456px;
+      }
+
+      .text{
+
+        margin-left: 97px;
+      }
+    
+
+      .content1-img{
+        margin-left: 110px;
+      }
+
+      .content1-text{
+        padding-left: 167px;
+
+      }
+
+      .content2-img{
+
+
+      }
+
+     .content2-text h2{
+
+        margin-left: -72px;
+     }
+
+     .content2-text p{
+
+        position: relative;
+     }
+
+
+     .content3-img{
+
+        position: relative;
+        margin-left: 119px;
+     }
+     .content3-text h2{
+
+     }
+
+
+     .content3-text{
+        padding-left: 87px;
+
+     }
+
+     .content5-img{
+
+        margin-left: 125px;
+     }
+
+     .content5-text h2{
+        margin-left: 10px;
+
+     }
+
+     .content5-text p{
+
+        margin-left: 82px;
+
+     }
+
+
+     .nav-2 p{
+
+        width: fit-content;
+        position: relative;
+     }
+    
+     .lastcontent-div p{
+
+        margin-left: -11px;
+        position: relative;
+     }
+
+
+     .button2-elements{
+
+        width: 250px;
+     }
+
+
+     .button2-div svg{
+
+        width: 185px;
+        display: inline-block;
+        position: relative;
+     }
+    }
+     
 
  
 @media screen and (max-width:520px) {
@@ -2780,6 +3036,213 @@ footer .rightside-div{
 }
     
  }
+
+
+ @media  screen and (max-width:480px) {
+
+.nav-2{
+
+    height: fit-content;
+
+
+}
+
+
+.nav-2 p{
+
+    width: fit-content;
+    position: relative;
+}
+    .text{
+
+        margin-left: 79px;
+    }
+
+    #vs-img{
+        margin-left: -425px;
+    top: 155px;
+
+    }
+
+
+    .button1-elements{
+
+        width: 251px;
+    }
+
+    .button2-elements{
+
+        width: 251px;
+
+    }
+
+
+
+
+
+    .content1-text{
+        padding-left: 70px;
+    }
+
+
+    .content2-img{
+
+        margin-left: -395px;
+    }
+
+    .content2-text h2{
+        position: relative;
+    left: 46px;
+    }
+
+    
+
+    .content3-img{
+
+        left: -24px;
+    }
+
+    .content3-text h2{
+
+        position: relative;
+        left: 180px;
+    }
+
+    .content4-img{
+        margin-left: -384px;
+
+    }
+
+    .content4-text h2{
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+    }
+ 
+
+@media screen and (max-width:430px) {
+
+
+    
+
+        .text{
+
+            margin-left: 55px;
+
+        }
+
+        #vs-img{
+                margin-left: -390px ;
+
+        }
+
+.content1-div {
+
+    max-height: fit-content;
+}
+
+        .content1-img{
+
+            margin-left: 67px;
+        }
+
+        .content1-text h2{
+
+            margin-left: 210px;
+        }
+
+        .content1-text p{
+            margin-left: 201px;
+            width: fit-content;
+            top: -9px;
+        }
+
+
+        .content4-img{
+
+            margin-left: -354px;
+        }
+
+
+        .content3-img{
+
+            left: -61px;
+        }
+
+        .content2-img{
+
+            position: relative;
+            left: 19px;
+        }
+
+        .content5-img{
+
+            position: relative;
+            left: -57px;
+        }
+
+        .content5-text h2{
+
+            margin-left: -1px;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .button1-elements{
+
+        width: 245px;
+    }
+
+    .button2-elements{
+
+        width: 205px;
+
+    }
+
+
+
+
+
+    .lastcontent-div p{
+
+        width: 350px;
+    }
+    
+
+    .content2-text h2{
+
+        width: 400px;
+
+    }
+    
+}
+
 
 
  @media screen and (max-width:425px) {
