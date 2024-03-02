@@ -977,7 +977,8 @@ background-size: cover;
     
     font-weight: 500;
     margin-top: 20px;
-    font-size: 15px;
+    font-size: 15px
+        margin-left: -229px;
 }
 
 .lastcontent-div p,a{
@@ -1580,7 +1581,7 @@ font-size: 12px;
         margin-left: 50px;
     }
     .search-bar{
-        height: 80px;
+        height: 62px;
     margin-top: 22px;
         
     }
@@ -1588,13 +1589,13 @@ font-size: 12px;
 
 
     .content1-img{
-        height: 13vh;
+        height: 22vh;
         width: 19vw;
 
     }
 
     .content2-img{
-        height: 13vh;
+        height: 22vh;
         width: 19vw;
         
     }
@@ -1604,7 +1605,7 @@ font-size: 12px;
     }
 
     .content3-img{
-        height: 13vh;
+        height: 22vh;
         width: 19vw;
 
     }
@@ -1614,7 +1615,7 @@ font-size: 12px;
     }
 
     .content4-img{
-        height: 13vh;
+        height: 22vh;
         margin-left: 50px;
         width: 19vw;
 
@@ -1622,7 +1623,7 @@ font-size: 12px;
 
     .content5-img{
 
-        height: 13vh;
+        height: 22vh;
         width: 19vw;
 
     }
