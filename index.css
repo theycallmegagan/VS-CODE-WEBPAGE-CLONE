@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
    
-   
+
     
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
@@ -11,7 +11,7 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     overflow-x: hidden;
     justify-self: center;
-  
+
 
     overflow: auto;
  
@@ -1596,7 +1596,7 @@ font-size: 12px;
     }
 
     .content2-img{
-        height: 13vh;
+        height: 21vh;
         width: 19vw;
         
     }
@@ -1606,7 +1606,7 @@ font-size: 12px;
     }
 
     .content3-img{
-        height: 13vh;
+        height: 21vh;
         width: 19vw;
 
     }
@@ -1616,7 +1616,7 @@ font-size: 12px;
     }
 
     .content4-img{
-        height: 13vh;
+        height: 21vh;
         margin-left: 50px;
         width: 19vw;
 
@@ -1624,7 +1624,7 @@ font-size: 12px;
 
     .content5-img{
 
-        height: 13vh;
+        height: 21vh;
         width: 19vw;
 
     }
