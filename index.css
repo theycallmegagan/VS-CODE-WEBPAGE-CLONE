@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
    
-
     
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
@@ -11,7 +10,7 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     overflow-x: hidden;
     justify-self: center;
-
+    
 
     overflow: auto;
  
@@ -2829,7 +2828,64 @@ footer .rightside-div{
     }
 
     
+@media screen and (max-width: 570px ) {
 
+    .text{
+        margin-left: 130px;
+    }
+
+    #vs-img{
+        margin-left: -490px;
+
+
+    }
+    .content1-img{
+
+        margin-left:141px;
+    }
+    .content1-text p {
+
+        width: 549px;
+        margin-left: 317px;
+    }
+
+   
+
+    .content2-text h2{
+
+        margin-left: -74px;
+    }
+
+
+    .content3-img{
+
+        margin-left: 140px;
+    }
+    .content3-text{
+
+        margin-left: -445px;
+    }
+    .content3-text h2{
+        margin-left: -76px;
+
+
+    }
+
+
+    .content5-img{
+
+        
+    margin-left: 143px;
+    }
+    .content5-text{
+
+        margin-left: -445px;
+    }
+    .content5-text h2{
+
+        margin-left: -80px;
+    }
+}
 
 
 @media screen and (max-width:525px) {
@@ -2932,6 +2988,10 @@ footer .rightside-div{
  
 @media screen and (max-width:520px) {
 
+    .nav-2 {
+
+        height: fit-content;
+    }
     .nav-2 p{
 
         width: 482px;
@@ -2963,13 +3023,13 @@ footer .rightside-div{
 
 .content1-text h2{
 
-    margin-left: 178px;
+    margin-left: 74px;
 }
 
 .content1-text p{
 
     width: fit-content;
-    margin-left: 158px;
+    margin-left: 65px;
 
 }
 
@@ -2980,11 +3040,11 @@ footer .rightside-div{
 
 .content2-img{
 
-
+    margin-left: -428px;
 }
 
 .content2-text h2{
-    margin-left: -118px;
+    margin-left: -70px;
 }
 
 
@@ -2995,11 +3055,15 @@ footer .rightside-div{
 
 .content3-text h2{
 
-    margin-left: -251px;
+    margin-left: -45px;
 }
 .content3-img{
 
-    margin-left: 124px;
+    margin-left: 105px;
+}
+.content3-text p{
+
+    margin-left: 25px;
 }
 
 
@@ -3019,11 +3083,11 @@ footer .rightside-div{
 
 
 .content5-text p{
-    margin-left: 93px;
+    margin-left: 10px;
 }
 
 .content5-text h2{
-    margin-left: -143px;
+    margin-left: -55px;
 
 }
 
@@ -3942,13 +4006,101 @@ margin-left: 151px;
 
 
 
+@media screen and (max-width:340px) {
 
+    #vs-img{
+
+        margin-left: -326px;
+    }
+    .text{
+
+        margin-left: 3px;;
+    }
+    .allbuttons{
+
+
+    }
+
+    .content1-text p{
+
+        width: 321px;
+    }
+    .content2-img{
+        margin-left: -273px;
+
+
+    }
+    .content3-text p{
+
+        width: 321px;
+    }
+
+    .content5-text p{
+        width: 321px;
+        margin-left: 81px;
+    }
+    .content5-img{
+
+        margin-left: 139px;
+    }
+    .lastcontent-div{
+        width: 325px;
+    }
+    .lastcontent-div h5{
+        width: 320px;
+    }
+
+    .button1-elements #bulb{
+
+       
+        margin-left: 40px;
+    }
+    .button1-elements {
+    
+        width: 150px;
+
+    }
+    .button2-elements {
+        width: 150px;
+
+
+    } 
+    .button2-elements #bulb{
+        
+       
+        margin-left: 40px;
+        
+    }
+
+    .button1-elements p a{
+        margin-left: -43px;
+    }
+
+    
+    .sec2{
+
+        width: fit-content;
+        position: relative;
+    }
+}
 
 
 
 
   @media screen and (max-width:320px) { 
   
+    .sec2 {
+        width: 312px;
+        position: relative;
+    }
+    .allbuttons{
+
+
+    }
+    .button2-elements p a{
+
+
+    }
       .nav-2 p{
         margin-left: -7px;
         width: 314px;
@@ -3987,8 +4139,11 @@ margin-left: 151px;
 
 .button2-elements p a{
 
-    top: 10px;
-    left: 13px;
+    top: 1px;
+    position: relative;
+    left: -11px;
+    width: fit-content;
+    display: inline-block;
 }
 
 
@@ -3999,7 +4154,8 @@ margin-left: 151px;
         
       }
       .button2-elements{
-            width: 175px;
+        width: 175px;
+        margin-left: -13px;
 
       }
   
