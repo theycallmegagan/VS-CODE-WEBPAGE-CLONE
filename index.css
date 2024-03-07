@@ -10,6 +10,7 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     overflow-x: hidden;
     justify-self: center;
+
     
 
     overflow: auto;
@@ -3741,7 +3742,7 @@ height: 400px;
 
     .content1-text h2{
 
-        margin-left: 44px;
+        margin-left: 154px;
     }
 
 .content1-text p{
@@ -3762,9 +3763,8 @@ height: 400px;
 
 
     .content2-text h2{
-
-        margin-left: -160px;
-    font-size: 17px;
+        margin-left: -121px;
+        font-size: 17px;
     }
 
 
@@ -3776,8 +3776,8 @@ height: 400px;
     }
 
     .content3-text h2{
-        margin-left: -127px;
-        font-size: 17px;
+        margin-left: -4px;
+    font-size: 17px;
 
     }
 
@@ -3786,6 +3786,7 @@ height: 400px;
 
 
         font-size: 18px;
+        margin-left: -42px;
     }
 
     .content3-text p{
@@ -3806,7 +3807,7 @@ height: 400px;
 
     .content5-text h2{
 
-        margin-left: -38px;
+        margin-left: 37px;
         font-size: 18px;
     }
     
@@ -3870,8 +3871,7 @@ height: 400px;
     }
 
     .content1-text h2{
-
-        margin-left: 57px;
+        margin-left: 154px;
     }
 
     .content2-img{
@@ -3888,7 +3888,7 @@ height: 400px;
 
 
 .content2-text h2{
-    margin-left: -102px;
+    margin-left: -81px;
     font-size: 16px;
     width: fit-content;
 }
@@ -3910,7 +3910,7 @@ height: 400px;
 }
 
 .content3-text h2{
-    margin-left: -124px;
+    margin-left: -24px;
     width: fit-content;
 }
 
@@ -3930,7 +3930,7 @@ height: 400px;
 }
 .content4-text h2{
 
-    margin-left: -108px;
+    margin-left: -22px;
 }
 .content4-text{
     margin-left: -3px;
@@ -3956,8 +3956,9 @@ margin-left: 151px;
 }
 
 .content5-text h2{
-    margin-left: 6px;
+    margin-left: 43px;
     top: 20px;
+
 }
 
 
@@ -4032,7 +4033,7 @@ margin-left: 151px;
     }
     .content3-text p{
 
-        width: 321px;
+        width: fit-content;
     }
 
     .content5-text p{
@@ -4047,7 +4048,8 @@ margin-left: 151px;
         width: 325px;
     }
     .lastcontent-div h5{
-        width: 320px;
+        width: fit-content;
+    margin-left: 69px;
     }
 
     .button1-elements #bulb{
