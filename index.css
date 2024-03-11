@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
    
+ 
+   
     
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
@@ -10,7 +12,7 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     overflow-x: hidden;
     justify-self: center;
-
+  
     
 
     overflow: auto;
@@ -336,7 +338,7 @@ body{
 .black-box{
     background-color: #25252b;
     height: 36.8px;
-    width: 290px !important;
+    width: 290px ;
     padding-bottom: 4px;
     text-align: center;
     margin-left:40px;
@@ -4335,14 +4337,388 @@ margin-left: 151px;
   
 
  
+@media screen and (max-width:265px) {
 
+
+    
+.nav-2 p{
+    width: fit-content;
+
+
+}   
+
+.text {
+    width: 255px;
+}
+
+#vs-img{
+
+    height: 400px;
+    width: 92vw;
+    position: relative;
+    top: 25px;
+    left: 55px;
+}
+
+
+.sec2{
+    width: fit-content;
+  
+}
+
+.button2-elements{
+
+    margin-left: -61px;
+    width: 180px;
+}
+.button2-elements p{
+
+    font-size: 5px;
+}
+.button2-div {
+    width: fit-content;
+
+}
+.button2-elements #bulb{
+
+width: 125px;
+margin-left: 79px;
+}
+
+.button2-elements p a{
+    top: -17px;
+    left: 8px;
+    font-size: 20px;
+}
+
+.button1-elements{
+    width: 180px;
+    margin-left: 100px;
+    position: relative;
+    z-index: -1;
+}
+
+.button1-elements p a{
+    top: 5px;
+    font-size: 20px;
+}
+
+
+.agreement-div{
+
+    width: 218px;
+    position: relative;
+    left: -25px;
+    top: -8px;
+}
+
+
+
+
+    
+
+
+.lastcontent-div p{
+    width: fit-content;
+}
+
+
+
+
+
+
+.black-box{
+    width: 236px;
+}
+
+
+
+.text button {
+
+    width: 190px;
+}
+
+.text button h3{
+
+    top: 5px;
+    position: relative;
+}
+
+.text #b p{
+
+    position: relative;
+    top: 5px;
+}
+
+.vscode{
+
+    height: 900px;
+}
+
+.content1-img{
+
+    margin-left: 33px;
+}
+.content1-text p{
+
+    width: 264px;
+    margin-left: 114px;
+
+    }
+    .content1-text h2{
+
+        margin-left: 174px;
+    }
+
+
+
+    .content2-img {
+        margin-left: -248px;
+
+
+    }
+.content2-text p{
+
+    width: fit-content;
+
+}
+    .content2-text h2{
+        position: relative;
+    width: 252px;
+    }
+
+
+
+
+    .content3-img{
+
+        margin-left: 97px;
+    }
+
+    .content3-text p{
+        width: fit-content;
+        margin-left: 183px;
+    }
+
+    .content3-text h2{
+
+        margin-left: 46px;
+ 
+ 
+    }
+
+    .content4-img{
+        margin-left: -224px;
+    }
+
+    .content4-text p{
+
+
+    }
+
+    .content4-text h2{
+        margin-left: -90px;
+    width: fit-content;
+
+    }
+
+
+
+    .content5-img{
+        margin-left: 93px;
+
+    }
+
+    .content5-text h2{
+
+        margin-left: 59px;
+    }
+
+    .content5-text p{
+        margin-left: 123px;
+
+    }
+
+    .lastcontent-div h5{
+
+        margin-left: 38px;
+    }
+
+.leftside-text{
+
+    position: relative;
+    left: -11px;
+    top: -14px;
+}
+
+}
 
   
-  
 
   
+@media screen and (max-width:230px) {
+
+    #vs-img{
+
+        width: 90vw;
+        left: 69px;
+    }
+    .text button{
+
+        width: 160px;
+    }
+    #top_p{
+
+        position: relative;
+        top: -10px;
+    }
+    #b h3{
+        font-size: 14px;
+    }
+    .text h1{
+
+        font-size: 31px;
+        
+    }
+    .agreement-div{
+        position: relative;
+    left: -48px;
+    width: 217px;
+
+    }
+    .nav-2{
+     height: fit-content;
+     width: 100%;
+    }
+
+.agreement {
+
+        font-size: 30px;
+    }
+    .black-box{
+
+        width: 216px;
+       
+    }
+    .text {
+
+        width: 221px;
+    
+    }
+  
+    .sec2{
+
+        display: none;
+
+    }
 
 
+
+    .logo-div h1 {
+        font-size: 19px;
+    }
+
+
+.content1-img{
+    margin-left: 14px;
+}
+
+
+
+.content2-div{
+    height: 470px;
+    
+}
+.content3-div{
+    height: 470px;
+    
+}
+.content4-div{
+    height: 470px;
+    
+}
+.content5-div{
+    height: 470px;
+    
+}
+.content1-div{
+    height: 470px;
+    
+}
+
+
+
+.content2-img{
+
+    margin-left: -236px;
+}
+    .content1-text p{
+
+        width: 218px;
+        margin-left: 143px;
+    
+    }
+ 
+    .content2-text h2{
+
+        width: 215px;
+    }
+
+
+
+.content3-img{
+
+    margin-left: 74px;
+}
+.content3-text p{
+
+    margin-left: 201px;
+}
+
+
+.content4-img{
+
+    margin-left: -203px;
+    width: 180px;
+}
+
+
+.content4-text h2{
+
+
+    width: fit-content;
+    position: relative;
+    left: -16px;
+}
+
+
+
+.content5-img{
+    margin-left: 76px;
+
+}
+
+.content5-text h2{
+
+    position: relative;
+    width: fit-content;
+    margin-left: 72px;
+    
+}
+
+.content5-text p{
+
+    margin-left: 136px;
+}
+
+.lastcontent-div h5{
+
+    left: -14px;
+    position: relative;
+}
+
+
+}
 
 
 
