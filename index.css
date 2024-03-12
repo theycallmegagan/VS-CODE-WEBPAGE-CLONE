@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
    
+   border: 00000.2px solid red;
+   
     
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
@@ -10,7 +12,7 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     overflow-x: hidden;
     justify-self: center;
-    
+    border:2px solid red;
     
 
     overflow: auto;
@@ -3571,15 +3573,14 @@ footer .rightside-div{
    }
 
    .content1-text h2{
-
-    margin-left: 33px;
+    margin-left: 56px;
     font-size: 20px;
    }
 .content1-text p{
 
     font-size: 14px;
-    width: 409px;
-    margin-left: 20px;
+    width: 380px;
+    margin-left: 52px;
 }
    .content1-text{
     width: 432px;
@@ -3610,15 +3611,15 @@ height: 400px;
    
    .content2-text h2{
 
-    margin-left: -168px;
+    margin-left: -111px;
     font-size: 16px;
    }
 .content2-text p{
 
     font-size: 14px;
     line-height: 23px;
-    width: 396px;
-    margin-left: -74px;
+    width: 378px;
+    margin-left: -50px;
 }
    .content2-text{
         margin-top: 164px;
@@ -3647,7 +3648,7 @@ height: 400px;
        
        .content3-text h2{
     
-        margin-left: -124px;
+        margin-left: -19px;
         font-size: 15px;
        }
     .content3-text p{
@@ -3767,8 +3768,8 @@ height: 400px;
         .lastcontent-div p{
             font-size: 12px;
             margin-top: 10px;
-            margin-left: 6px;
-            width: 350px;
+            margin-left: 21px;
+            width: 365px;
         }
         .lastcontent-div a{
             font-size: 12px;
@@ -4195,7 +4196,7 @@ margin-left: 151px;
       }
       .text{
   
-        margin-left: -1px;
+        margin-left: 15px;
       }
   
       .text #x{
@@ -4248,7 +4249,8 @@ margin-left: 151px;
       }
   
       .agreement-div{
-          margin-top: 108px;
+        margin-top: 108px;
+        margin-left: 18px;
       }
   
       .agreement-div p{
@@ -4283,16 +4285,16 @@ margin-left: 151px;
   
       .content1-text h2{
   
-          margin-left: 100px;
+          margin-left: 160px;
       }
   
 
       
 
       .content2-text h2 {
-        margin-left: -136px;
-        width: 296px;
-        padding-left: 32px;
+        margin-left: -120px;
+        width: 275px;
+        padding-left: 67px;
       }
   
   
@@ -4324,9 +4326,8 @@ margin-left: 151px;
       }
 
       .content3-text h2{
-
-        margin-left: -15px;
-    padding-left: 0px;
+        margin-left: 114px;
+        padding-left: 0px;
       }
 
 
@@ -4345,7 +4346,7 @@ margin-left: 151px;
 
       .content4-text h2{
 
-        margin-left: -111px;
+        margin-left: -70px;
 
       }
 
@@ -4357,7 +4358,7 @@ margin-left: 151px;
 
       }
       .content5-text h2{
-        margin-left: 10px;
+        margin-left: 60px;
         top: 20px;
 
       }
@@ -4365,7 +4366,7 @@ margin-left: 151px;
 
       .content5-text p{
 
-        margin-left: 54px;
+        margin-left: 90px;
         width: fit-content;
       }
 
