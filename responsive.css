@@ -1,0 +1,1129 @@
+@media screen and (max-width:1440px) {
+
+
+    #vs-img{
+        width: 700px;
+    
+    }
+    
+
+
+}
+
+
+
+
+
+
+
+@media screen and (max-width:1355px) {
+
+    .download-div button{
+
+        display: none;
+    }
+    
+}
+
+
+
+
+
+@media screen and (max-width:1205px) {
+
+   .logo-div{
+    margin-left: 40px;
+   }
+    
+
+
+   .content1-text{
+
+    margin-left: 29px;
+   }
+}
+
+
+
+
+
+
+@media screen and (max-width:1130px) {
+
+
+    .vscode{
+
+        height: 1100px;
+       
+        
+    }
+
+    .text{
+        margin-top: 44px;
+        margin-left: 401px;
+        width: fit-content;
+    }
+
+        
+
+    #vs-img{
+        width: 800px;
+    height: 600px;
+    margin-left: 162px;
+    float: none;
+    margin-top: 72px;
+}
+        
+    
+
+    
+
+.search-div{
+
+    display: none;
+}
+
+
+
+
+}
+
+
+
+
+@media screen and (max-width:1020px){
+    
+    .button3-div{
+
+        position: absolute;
+        margin-top: 327px;
+        margin-left: -174px;
+    }
+    
+    .button4-div{
+
+        position: absolute;
+        margin-top: 327px;
+        margin-left: 500px;
+    }
+    .button4-elements{
+
+        width: 295px;
+        margin-left: -80px;
+    }
+
+    .sec2{
+        background-color: aquamarine;
+        height: 326px;
+        padding-left: 37px;
+        width: 95%;
+    }
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+@media screen and (max-width:1000px) {
+
+.text{
+    margin-left: 346px;
+
+
+}
+
+#vs-img{
+    margin-left: 99px;
+
+}
+
+
+
+
+
+.content1-div{
+
+    height: 700px;
+    justify-content: center;
+    background-color: rgb(127, 255, 249);
+}
+
+.content1-img{
+    justify-content: center;
+    margin-left: 310px;
+    margin-top: 80px;
+
+}
+.content1-text{
+    
+    margin-top: 400px;
+    margin-left: -656px;
+    width: fit-content;
+
+}
+
+    
+
+
+
+.content2-div{
+
+
+    height: 700px;
+    background-color: rgb(127, 255, 249);
+}
+
+.content2-img{
+
+    margin-left: -691px;
+
+}
+
+
+
+
+.content2-text{
+
+    margin-left: 39px;
+    margin-top: 366px;
+
+
+}
+
+
+
+
+
+
+
+.content3-div{
+    height: 700px;
+    background-color: rgb(90, 145, 143);
+
+}
+
+.content3-img{
+
+    margin-left: 310px;
+}
+
+.content3-text{
+
+    margin-top: 370px;
+    margin-left: -654px;
+
+}
+
+
+
+.content4-div{
+
+    height: 700px;
+    background-color: bisque;
+}
+
+.content4-img{
+
+    margin-left: -661px;
+
+}
+
+.content4-text{
+    margin-left: 39px;
+    margin-top: 366px;
+
+}
+
+
+
+
+
+.content5-div{
+
+height: 700px;
+background-color: darkcyan;
+}
+
+.content5-img{
+
+    margin-left: 310px;
+}
+
+.content5-text{
+
+    margin-top: 370px;
+    margin-left: -654px;
+}
+
+
+
+.leftside-text .size{
+
+    font-size: 26px;
+
+
+}
+
+
+}
+
+
+
+
+@media screen and (max-width:915px) {
+
+
+    #vs-img{
+
+        width: 700px;
+        height: 600px;
+    }
+
+    .text{
+
+        margin-left: 300px;
+    }
+    
+    .allbuttons{
+        padding-left: 44px;
+    
+    }
+
+    .content1-img{
+
+       
+        margin: auto;
+        position: relative;
+        left: 264px;
+        top: -144px;
+    
+        
+    }
+.content1-text{
+    width: fit-content;
+    margin-right: 1px;
+    margin-left: -323px;
+}
+
+    
+#center-img1{
+    display: flex;
+    justify-content: center;
+    
+    border: 5px solid lightseagreen;
+    width:100%;
+
+    
+}
+
+.content2-img{
+    margin-left: -660px;
+}
+
+.content3-img{
+
+    margin-left: 260px;
+}
+.content3-text{
+
+    margin-left: -605px;
+}
+
+.content4-img{
+
+    margin-left: -598px;
+}
+
+
+.content5-img{
+
+    margin-left: 300px;
+}
+
+
+
+.link-ul{
+
+
+}
+
+
+.leftside-text .size{
+
+    font-size: 20px;
+}
+
+}
+
+
+
+
+
+@media screen and (max-width:780px) {
+#logo{
+
+    width: 70px;
+    margin-left: -13px;
+
+}
+.logo-div{
+    margin-left: -10px;
+}
+.logo-div .logo-heading{
+
+    font-size: 18px;
+}
+    .text{
+        margin-left: 233px;
+    }
+
+    #vs-img{
+       width: 560px;
+       
+
+    }
+
+
+    .link-ul li a{
+
+        font-size: 16px;
+    }
+    .content1-img{
+
+       place-self: center;
+    }
+
+.link-ul  {
+
+        display: none;
+
+
+    }
+
+
+
+
+
+    .content1-img{
+        margin-left: -40px;
+        
+    }
+    .content2-img{
+        margin-left: -585px;
+        
+    }
+    .content3-img{
+        margin-left: 197px;
+        
+    }
+    .content3-text{
+
+        margin-left: -540px;
+    }
+    .content4-img{
+        margin-left: -560px;
+        
+    }
+    .content5-img{
+        
+        margin-left: 200px;
+        
+    }
+
+    .content5-text{
+
+        margin-left: -560px;
+    }
+
+
+    
+
+
+
+
+
+
+}
+
+
+
+
+
+
+@media screen and (max-width:625px) {
+
+    .nav-bar ul{
+
+        display: none;
+    }
+
+    #logo{
+
+        width: 100px;
+        height: 100px;
+    }
+
+    .logo-heading{
+        top: 12px;
+        left: 4px;
+        position: relative;
+
+        font-size: 30px;
+    }
+
+    .text{
+        margin-left: 155px;
+
+    }
+
+    #vs-img{
+
+        margin-left: 27px;
+    min-width: 70vw;
+    }
+    
+
+
+
+
+    
+
+    .content1-img{
+        margin-left: -128px;
+        
+    }
+
+    .content1-text h2{
+
+        display: flex;
+        justify-content: center;
+    }
+
+    .content1-text{
+
+        margin-left: -244px;
+        right: 4px;
+    }
+    .content2-img{
+        margin-left: -474px;
+        
+    }
+    .content2-text h2{
+
+        display: flex;
+        justify-content: center;
+    }
+    .content3-img{
+        margin-left: 130px;
+        
+    }
+    .content3-text h2{
+
+        display: flex;
+        justify-content: center;
+    }
+    .content3-text{
+
+        margin-left: -480px;
+    }
+    .content4-img{
+        margin-left: -436px;
+        
+    }
+    .content4-text h2{
+
+        display: flex;
+        justify-content: center;
+    }
+    .content5-img{
+        
+        margin-left: 130px;
+        
+    }
+
+    .content5-text{
+
+        margin-left: -470px;
+    }
+
+    .content5-text h2{
+
+        display: flex;
+        justify-content: center;
+    }
+
+    .sec2{
+
+        display: flex;
+        justify-content: center;
+        width: 568px;
+    }
+
+    .button1-elements{
+
+
+    }
+
+}
+
+
+
+@media screen and (max-width:560px) {
+
+    .text{
+       margin-left:  130px;
+
+    }
+
+    #vs-img{
+        width: 85vw;
+        margin-left: 50px;
+
+    }
+    .sec2{
+
+        width: 520px;
+    }
+
+    .button1-elements{
+        width: 200px;
+    }
+
+    .button1-elements #bulb{
+
+        margin-left: 70px;
+        
+    }
+    .button3-elements{
+
+        width: 200px;
+        margin-left: 86px;
+    }
+    
+    .button2-elements{
+
+        width: 200px;
+    }
+    .button2-elements svg {
+        margin-left: 16px;
+    }
+.button4-elements  svg{
+
+    width: fit-content;
+}
+    .button4-elements{
+        width: 200px;
+        margin-left: -181px;
+    }
+
+}
+
+
+
+@media screen  and (max-width:520px) {
+
+    .text{
+        margin-left: 120px;
+    }
+
+    .sec2{
+
+        width: 424px;
+        margin-left: 22px;
+    }
+    
+    .content1-img{
+
+        margin-left: -190px;
+    }
+    
+    .content1-text{
+
+        margin-left: -182px;
+        right: 3px;
+        position: relative;
+    }
+
+
+    .content2-img{
+
+        margin-left: -469px;
+    }
+
+
+    .content3-img{
+
+        margin-left: 78px;
+    }
+
+    .content3-text{
+        margin-left: -451px;
+    position: relative;
+    right: 2px;
+
+    }
+
+    .content4-img{
+
+        margin-left: -400px;
+    }
+
+.content5-img{
+
+
+    margin-left: 70px;
+}
+.content5-text{
+
+    margin-left: -430px;
+}
+
+}
+
+
+
+@media screen and (max-width:470px) {
+
+    .text{
+        margin-left: 85px;
+    }
+
+    #vs-img{
+
+        margin-left: 34px;
+    }
+
+    .sec2{
+
+        width: 387px;
+    }
+
+    .content2-img{
+
+        margin-left: -430px;
+    }
+
+    .content3-img{
+
+        margin-left: 60px;
+    }
+    .content3-text{
+        margin-left: -420px;
+    }
+
+    .content4-img{
+
+        margin-left: -374px;
+
+    }
+    .content5-img{
+        margin-left: 51px;
+    }
+
+
+    
+}
+
+
+@media screen  and (max-width:430px) {
+
+    .text{
+
+        margin-left: 59px;
+
+    }
+
+    #vs-img{
+
+    }
+    .button2-elements svg{
+
+        width: 178px;
+        display: inline-block;
+    }
+    .sec2{
+
+        width: 353px;
+        margin-left: 8px;
+    }
+
+
+    
+    .content1-img{
+
+        margin-left: -216px;
+        width: 76vw;
+    }
+    .content1-text{
+
+        margin-left: -81px;
+    }
+    .content2-img{
+        width: 76vw;
+        margin-left: -383px;
+
+    }
+    .content2-text{
+        margin-left: 11px;
+    }
+    .content3-img{
+         width: 76vw;
+
+    }
+    .content3-text{
+
+        margin-left: -371px;
+    }
+    .content4-img{
+
+      width: 76vw;
+    }
+    .content4-text{
+
+        margin-left: 9px;
+        position: relative;
+        top: -36px;
+    }
+
+
+    .content5-text{
+
+        margin-left: -363px;
+        position: relative;
+        top: -40px;
+    }
+    
+    .content5-img{
+
+     width: 76vw;
+    }
+    
+}
+
+
+
+@media screen and (max-width:370px) {
+.sec2{
+
+    width: 300px;
+}
+
+.text{
+margin-left: 20px;
+
+}
+
+#vs-img{
+    margin-left: 23px;
+
+}
+    
+
+.content1-img{
+
+    
+}
+.content1-text{
+    margin-left: -43px;
+    position: relative;
+    text-align: center;
+    top: -61px;
+
+
+}
+.content2-img{
+    margin-left: -321px;
+
+}
+.content2-text{
+
+    text-align: center;
+}
+.content3-img{
+    margin-left: 46px;
+
+}
+.content3-text{
+    text-align: center;
+    margin-left: -313px;
+}
+
+.content4-img{
+margin-left: -320px;
+
+}
+.content4-text{
+position: relative;
+top: -90px;
+    text-align: center;
+}
+.content5-img{
+
+
+}
+.content5-text{
+position: relative;
+top: -60px;
+padding-left: 42px;
+    text-align: center  ;
+}
+
+.button1-elements{
+
+    width: 150px;
+}
+.button2-elements{
+
+    width: 150px;
+}
+.button2-elements svg {
+    width: 160px;
+    display: inline-block;
+}
+.button3-elements{
+
+    width: 150px;
+    position: relative;
+    left: 28px;
+}
+.button4-elements{
+
+    width: 150px;
+    position: relative;
+    left: -25px;
+}
+
+.button1-elements svg{
+
+    position: relative;
+    left: -18px;
+}
+.button2-elements svg{
+
+    position: relative;
+    left: -10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+@media screen and (max-width:325px) {
+
+    .text{
+
+        width: 281px;
+        margin-left: 15px;
+    }
+    .black-box{
+
+        position: relative;
+        left: 3px;
+        width: 230px;
+    }
+    .nav-2{
+
+        height: fit-content;
+    }
+.agreement-div{
+    position: relative;
+    left: -24px;
+}
+    #vs-img{
+
+
+    }
+    
+    .sec2{
+        width: 180px;
+        margin-left: 20px;
+    }
+
+    #b{
+
+        width: 196px;
+    }
+    .nav-2 p{
+
+        font-size: 16px;
+    }
+    .nav-2 p a{
+
+        font-size: 16px;
+    }
+
+
+
+
+    .button2-elements svg{
+
+        width: 136px;
+    }
+
+
+
+
+
+
+    .content1-img{
+
+        margin-left: -230px;
+
+    }
+
+    .content1-text{
+        margin-left: 2px;
+
+    }
+
+
+    .content2-img{
+        margin-left: -290px;
+
+    }
+
+    .content2-text{
+
+
+    }
+
+    .content3-img{
+
+    }
+    .content3-text{
+
+    }
+
+
+    .content4-img{
+
+        margin-left: -280px;
+
+    }
+    .content4-text{
+
+    }
+
+    .content5-img{
+    position: relative;
+    top: -20px;
+
+    }
+
+    .content5-text{
+
+    margin-left: -330px;
+    position: relative;
+    top: -130px;
+    }
+
+
+    .button2-elements{
+        position: relative;
+        left: 26px;
+
+
+    }
+
+    .button4-elements{
+
+        position: relative;
+        left: 5px;
+    }
+    
+    .button1-elements{
+        position: relative;
+        left: 27px;
+
+    }
+
+    .button3-elements{
+        position: relative;
+        left: 54px;
+    }
+
+
+
+    
+}
+
+
+
+@media screen and (max-width:280px) {
+
+    .allbuttons{
+        width: 0px;
+
+    }
+    .black-box{
+
+        left: -13px;
+    }
+
+    .text{
+
+        margin-left: px;
+        width: 240px;
+    }
+    .agreement-div{
+        left: -38px;
+        top: 8px;
+        width: 215px;
+    }
+
+    .sec2{
+
+        width: 90px;
+        margin-left: 20px;
+    }
+    .button1-elements{
+        left: 40px;
+    }
+    .button3-elements{
+        left: 80px;
+    }
+
+
+
+
+
+
+    .content2-img{
+        margin-left: -252px;
+
+    }
+
+    .content3-text{
+        margin-left: -239px;
+        top: -108px;
+    }
+
+    .content3-img{
+
+        margin-left: 33px;
+    }
+
+
+}
