@@ -154,7 +154,7 @@
 
     height: 700px;
     justify-content: center;
-    background-color: rgb(127, 255, 249);
+   
 }
 
 .content1-img{
@@ -179,7 +179,7 @@
 
 
     height: 700px;
-    background-color: rgb(127, 255, 249);
+ 
 }
 
 .content2-img{
@@ -207,7 +207,7 @@
 
 .content3-div{
     height: 700px;
-    background-color: rgb(90, 145, 143);
+    
 
 }
 
@@ -228,7 +228,7 @@
 .content4-div{
 
     height: 700px;
-    background-color: bisque;
+
 }
 
 .content4-img{
@@ -250,7 +250,7 @@
 .content5-div{
 
 height: 700px;
-background-color: darkcyan;
+
 }
 
 .content5-img{
