@@ -1,2 +1,3 @@
 # VS-CODE-WEBPAGE-CLONE
-First project
+hey programmer, Iam Gagan if you like this project you can download a copy of the zip file ...
+follow me on X - @GaganxDhiman
