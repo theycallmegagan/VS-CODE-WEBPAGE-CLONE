@@ -369,7 +369,7 @@ body{
     width: fit-content;
     height: fit-content;
     margin-top: 13px;
-    margin-left: 51px;
+    margin-left:37px;
  }
  
  
@@ -377,6 +377,10 @@ body{
     font-size: 16px;
  }
 
+ .agreement a{
+    position: relative;
+    left: 1px;
+ }
 .agreement{
 
  position: relative;
