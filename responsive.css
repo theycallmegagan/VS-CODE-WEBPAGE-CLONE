@@ -715,7 +715,7 @@ height: 700px;
     }
     .sec2{
 
-        width: 520px;
+        width: 494px;
     }
 
     .button1-elements{
@@ -825,7 +825,17 @@ height: 700px;
 
 }
 
+@media screen and (max-width: 560px){
+#vs-img {
+    width: 78vw;
+    margin-left: 83px;
 
+    
+}
+.text{
+    margin-left: 88px;
+}
+}
 
 @media screen and (max-width:470px) {
 
@@ -880,6 +890,54 @@ height: 700px;
     
 }
 
+@media screen and (max-width:450px) {
+#vs-img{
+
+    margin-left: 78px;
+}
+.sec2{
+
+
+}
+.content1-img{
+    width: 70vw;
+}
+.content1-text{
+    
+    margin-left: -115px;
+}
+
+.content2-img {
+    
+    width: 70vw;
+    margin-left: -396px;
+}
+    
+.content3-img{
+    width: 70vw;
+    margin-left: 82px;
+}
+.content3-text{
+
+    margin-left: -374px;
+    
+}
+
+.content4-img {
+ 
+    width: 70vw;
+}
+.content5-img {
+  
+    width: 70vw;
+    
+    margin-left: 82px;
+}
+.content5-text{
+    margin-left: -383px;
+}
+
+}
 
 @media screen  and (max-width:430px) {
 
@@ -962,16 +1020,46 @@ height: 700px;
     
 }
 
+@media screen and (max-width:405px) {
+    #vs-img {
+        width: 314px;
+    }
+
+    .text{
+        margin-left: 43px;
+    }
+
+    .content2-img{
+margin-left: -366px;
+
+    }
+
+    .content3-img{
+        margin-left: 67px;
+
+    }
+    .content4-img{
+        margin-left: -329px;
+        width: 67vw;
+    }
+
+    
+
+    .content5-img{
+        margin-left: 70px;
+    }
+    
+}
 @media screen and (max-width:390px) {
     #vs-img{
 
-        margin-left: 55px;
+        margin-left: 65px;
     }
 
 
     .content1-text{
 
-        margin-left: -60px;
+        margin-left: -86px;
         justify-content: center;
         text-align: center;
     
@@ -1013,7 +1101,7 @@ height: 700px;
     }
 
     .text{
-        margin-left: 29px   ;
+        margin-left: 42px;
     }
     
 
@@ -1030,14 +1118,18 @@ height: 700px;
 }
 
 .text{
-margin-left: 20px;
+    margin-left: 30px;
+
 
 }
-
+.black-box{
+    position: relative;
+    left: -3px;
+}
 #vs-img{
     margin-left: 35px;
     top: -25px;
-    left: -11px;
+    left: -5px;
 
 }
     
@@ -1149,12 +1241,7 @@ padding-left: 10px;
 
 
 @media screen and (max-width:350px) {
-    body{
-        
-    }
-    *{
-        
-    }
+   
  .sec2{
     width: 200px;
  }   
@@ -1163,13 +1250,19 @@ padding-left: 10px;
  #vs-img{
     margin-left: 16px;
     top: -25px;
-    left: -11px;
+    left: 11px;
  }
  .content5-text{
-    margin-left: -310px;
+    margin-left: -330px;
  }
 
+.text{
 
+    margin-left: 17px;
+}
+.content4-img{
+    margin-left: -290px;
+}
 
 
 
@@ -1180,7 +1273,7 @@ padding-left: 10px;
 
 
 }
-@media screen and (max-width:330px) {
+@media screen and (max-width:335px) {
 
     .text{
 
@@ -1203,7 +1296,39 @@ padding-left: 10px;
         position: relative;
         left: -23px;
     }
+
+    .sec2{
+
+        width: 240px;
+        margin-left: 50px;
+    }
+    .allbuttons{
+        padding-left: 70px;
+    }
     
+    .agreement-div{
+        margin-left: 51px;
+    }
+
+
+    .content1-img{
+
+        margin-left: -212px;
+    }
+
+    .content1-text{
+        margin-left: -29px;
+    }
+    .content2-img{
+        margin-left: -310px;
+    }
+    .content5-img{
+        
+    margin-left: 54px;
+    }
+    .content5-text{
+        margin-left: -302px;
+    }
 }
 
 
@@ -1211,14 +1336,15 @@ padding-left: 10px;
 @media screen and (max-width:325px) {
 
     .text{
-
+        top: 30px;
+        position: relative;
         width: 281px;
         margin-left: 15px;
     }
     .black-box{
 
         position: relative;
-        left: 3px;
+        left: 9px;
         width: 230px;
     }
     .nav-2{
@@ -1227,15 +1353,19 @@ padding-left: 10px;
     }
 .agreement-div{
     position: relative;
-    left: -24px;
+    left: -34px;
+    width: 249px;
 }
     #vs-img{
-
+        width: 250px;
+    height: 528px;
+    margin-left: 31px;
+    top: 35px;
 
     }
     
     .sec2{
-        width: 180px;
+        width: 256px;
         margin-left: 20px;
     }
 
@@ -1267,12 +1397,12 @@ padding-left: 10px;
 
     .content1-img{
 
-        margin-left: -230px;
+        margin-left: -205px;
 
     }
 
     .content1-text{
-        margin-left: 2px;
+        margin-left: -20px;
 
     }
 
@@ -1288,16 +1418,16 @@ padding-left: 10px;
     }
 
     .content3-img{
-
+        margin-left: 57px;
     }
     .content3-text{
-
+        margin-left: -287px;
     }
 
 
     .content4-img{
 
-        margin-left: -280px;
+        margin-left: -258px;
 
     }
     .content4-text{
@@ -1312,7 +1442,7 @@ padding-left: 10px;
 
     .content5-text{
 
-    margin-left: -330px;
+    margin-left: -300px;
     position: relative;
     top: -130px;
     }
@@ -1349,11 +1479,19 @@ padding-left: 10px;
     
 }
 
+@media screen and (max-width: 325px){
+.sec2 {
+    width: 236px;
+    margin-left: 20px;
+}
+}
+
 @media screen and (max-width:295px){
 
     #vs-img{
 
         width: 260px;
+        margin-left: 16px;
     }
     .text{
         left: -10px;  
@@ -1363,8 +1501,8 @@ padding-left: 10px;
     
 }
 .sec2{
-    width: 200px;
-    margin-left: 47px;
+    width: 230px;
+    margin-left: 30px;
 }
 
 .content2-img {
@@ -1376,12 +1514,12 @@ padding-left: 10px;
 }
 
 .content3-text{
-    padding-left: 72px;
+    padding-left: 30px;
 }
 
 .content4-img{
 
-    margin-left: -257px;
+    margin-left: -237px;
 }
 
 .content5-text{
@@ -1481,21 +1619,85 @@ margin-left: -240px;
     .sec2{
 
         width: 200px;
-        left: 1px;
+        left: -29px;
     }
     .button3-elements svg{
         position: relative;
         left: -8px;
 
     }
+
+    .button1-elements p a,.button2-elements p a,.button3-elements p a,.button4-elements p a{
+        font-size: 17px;
+    }
+
+    .content1-img{
+margin-left: -222px;
+
+    }
+    .content1-text{
+        margin-left: 15px;
+
+    }
+
+    .content2-img{
+
+        margin-left: -233px;
+    }
+
+    .content2-text{
+        position: relative;
+        top: -80px;
+    }
+
+    .content3-text{
+        margin-left: -246px;
+
+    }
+
+    .content4-img{
+
+        margin-left: -213px;
+    }
+    .content5-img{
+        margin-left: 44px;
+    }
+
+.content5-text{
+    margin-left: -233px;
+}
 }
 
 
+@media screen and (max-width: 258px){
+    .text {
+        margin-left: 15px;
+        width: 239px;
+    }
+    #vs-img{
+    
+        width: 227px;
+        left: 2px;
+    }
+    }
 
 
 
+@media screen  and (max-width:253px) {
+
+    .text{
 
 
+    }
+    #vs-img{
+
+    }
+    .sec2 {
+        width: 193px;
+        left: -34px;
+    }
+    
+}
 
 
 @media screen and (max-width:245px) {
@@ -1517,7 +1719,7 @@ margin-left: -240px;
     /* display: none; */
 }
 .vscode {
-    height: fit-content;
+    height: 1000px;
 }
 
 .agreement-div .agreement{
@@ -1526,19 +1728,29 @@ margin-left: -240px;
 }
 .agreement-div{
     position: relative;
-    left: -60px;
+    left: -59px;
+    top: -7px;
+
 }
 .black-box{
     width: 200px;
 }
     .text{
         width: 200px;
+        margin-left: 27px;
     }
 
     #b{
 
         width: 170px;
+        height: 60px;
     
+    }
+    .agreement-div a {
+        margin-left: -6px;
+    }
+    #down{
+        height: 60px;
     }
     .text button h3{
 
@@ -1577,7 +1789,7 @@ width: 100px;
 
 }
 .content3-text{
-    margin-left: -294px;
+    margin-left: -234px;
 }
 
 .content4-img{
@@ -1613,9 +1825,10 @@ width: 100px;
 }
 
 
+
 }
 
-@media screen and (max-width:210px) {
+@media screen and (max-width:217px) {
     #logo{
         float: left;
     top: 2px;
@@ -1640,23 +1853,25 @@ width: 100px;
         display: none;
     }
     #vs-img{
-        width: 137px;
+        width: 173px;
     }
 .black-box{
     width: fit-content;
     height: fit-content;
+    position: relative;
+    left: -4px;
 }
 .text p{
     font-size: 12px;
 }
 .text{
     width: 170px;
-    left: 1px;
+    left: -1px;
 }
 .agreement-div{
     width: 138px;
     top: -12px;
-    left: -50px;
+    left: -45px;
 }
 
 .text #heading-one,#heading-two{
@@ -1696,7 +1911,7 @@ width: 100px;
 }
 
 .content3-text{
-    margin-left: -248px;
+    margin-left: -208px;
 
 }
 
