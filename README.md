@@ -1,3 +1,7 @@
 # VS-CODE-WEBPAGE-CLONE
-hey programmer, Iam Gagan if you like this project you can download a copy of the zip file ...
-follow me on X - @GaganxDhiman
+
+Hi, I’m @theycallmegagan
+I’m currently learning Web development
+Email - gaganxdhiman@gmail.com
+X : https://x.com/GaganxDhiman
+
